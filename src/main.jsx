@@ -14,8 +14,8 @@ createRoot(document.getElementById("root")).render(
       <Aside />
       <Contenido />
     </section>
-   <section className="final">
-    <Footer/>
-   </section>
+    <section className="final">
+      <Footer />
+    </section>
   </StrictMode>
 );
